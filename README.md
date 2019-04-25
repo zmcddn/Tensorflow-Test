@@ -15,6 +15,14 @@ Successfull execution of the file indicates that you have correctly installed Te
         2. Install packages: `conda install --file requirements.txt`
         3. Run file: `python tensorflow_test.py`
 
+# TensorFlow version compatibility
+
+If you are having trouble install the correct version combinations of Tensorflow, cuda, cudnn, here is a super userful image:
+![Version](./Versions.PNG)
+
+And a super useful link which is where the image came from:
+- https://www.tensorflow.org/install/source#tested_build_configurations
+
 ## Reference:
 - https://www.tensorflow.org/guide/using_gpu
 - https://linuxhint.com/gpu-programming-python/
